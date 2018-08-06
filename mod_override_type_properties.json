@@ -1,307 +1,307 @@
 {
 	"adobe" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/adobe.png"
+		"icon" : "./Icon/adobe.png"
 	},
 	"alkanet" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/alkanet.png"
+		"icon" : "./Icon/alkanet.png"
 	},
 	"alkanetstage1" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/alkanetstage1.png"
+		"icon" : "./Icon/alkanetstage1.png"
 	},
 	"banner" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/banner.png"
+		"icon" : "./Icon/banner.png"
 	},
 	"berry" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/berry.png"
+		"icon" : "./Icon/berry.png"
 	},
 	"berrybush" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/berrybush.png"
+		"icon" : "./Icon/berrybush.png"
 	},
 	"blackplanks" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/blackplanks.png"
+		"icon" : "./Icon/blackplanks.png"
 	},
 	"bow" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/bow.png"
+		"icon" : "./Icon/bow.png"
 	},
 	"bowstring" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/bowstring.png"
+		"icon" : "./Icon/bowstring.png"
 	},
 	"bread" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/bread.png"
+		"icon" : "./Icon/bread.png"
 	},
 	"bricks" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/bricks.png"
+		"icon" : "./Icon/bricks.png"
 	},
 	"bricksblack" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/bricksblack.png",
+		"icon" : "./Icon/bricksblack.png",
 		"sideall" : "bricksblack"
 	},
 	"bricksdarkred" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/bricksdarkred.png",
+		"icon" : "./Icon/bricksdarkred.png",
 		"sideall" : "bricksdarkred"
 	},
 	"bricksdarkyellow" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/bricksdarkyellow.png",
+		"icon" : "./Icon/bricksdarkyellow.png",
 		"sideall" : "bricksdarkyellow"
 	},
 	"cratebread" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/cratebread.png",
+		"icon" : "./Icon/cratebread.png",
 		"sideall" : "cratebread",
 		"sidey+" : "cratebreadtop",
 		"sidey-" : "cratebreadtop"
 	},
 	"bricksred" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/bricksred.png",
+		"icon" : "./Icon/bricksred.png",
 		"sideall" : "bricksred"
 	},
 	"bronzeanvil" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/bronzeanvil.png",
+		"icon" : "./Icon/bronzeanvil.png",
 		"sideall" : "stonebricks",
 		"sidey+" : "bronzeanvil"
 	},
 	"bronzearrow" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/bronzearrow.png"
+		"icon" : "./Icon/bronzearrow.png"
 	},
 	"bronzeaxe" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/bronzeaxe.png"
+		"icon" : "./Icon/bronzeaxe.png"
 	},
 	"bronzecoin" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/bronzecoin.png"
+		"icon" : "./Icon/bronzecoin.png"
 	},
 	"bronzeingot" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/bronzeingot.png"
+		"icon" : "./Icon/bronzeingot.png"
 	},
 	"bronzepickaxe" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/bronzepickaxe.png"
+		"icon" : "./Icon/bronzepickaxe.png"
 	},
 	"bronzeplate" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/bronzeplate.png"
+		"icon" : "./Icon/bronzeplate.png"
 	},
 	"carpetblue" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/carpetblue.png"
+		"icon" : "./Icon/carpetblue.png"
 		"sideall" : "carpetblue"
 	},
 	"carpetred" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/carpetred.png",
+		"icon" : "./Icon/carpetred.png",
 		"sideall" : "carpetred"
 	},
 	"carpetwhite" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/carpetwhite.png",
+		"icon" : "./Icon/carpetwhite.png",
 		"sideall" : "carpet"
 	},
 	"carpetyellow" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/carpetyellow.png",
+		"icon" : "./Icon/carpetyellow.png",
 		"sideall" : "carpetyellow"
 	},
 	"charcoal" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/charcoal.png"
+		"icon" : "./Icon/charcoal.png"
 	},
 	"cherryblossom" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/cherryblossom.png"
+		"icon" : "./Icon/cherryblossom.png"
 	},
 	"cherrysapling" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/cherrysapling.png"
+		"icon" : "./Icon/cherrysapling.png"
 	},
 	"clay" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/clay.png"
+		"icon" : "./Icon/clay.png"
 	},
 	"clothing" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/clothing.png"
+		"icon" : "./Icon/clothing.png"
 	},
 	"coalore" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/coalore.png"
+		"icon" : "./Icon/coalore.png"
 	},
 	"coatedplanks" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/coatedplanks.png"
+		"icon" : "./Icon/coatedplanks.png"
 	},
 	"cobblestoneblack" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/cobblestoneblack.png",
+		"icon" : "./Icon/cobblestoneblack.png",
 		"sideall" : "cobblestoneblack"
 	},
 	"cobblestoneblue" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/cobblestoneblue.png",
+		"icon" : "./Icon/cobblestoneblue.png",
 		"sideall" : "cobblestoneblue"
 	},
 	"cobblestonebrown" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/cobblestonebrown.png",
+		"icon" : "./Icon/cobblestonebrown.png",
 		"sideall" : "cobblestonebrown"
 	},
 	"cobblestonegrey" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/cobblestonegrey.png",
+		"icon" : "./Icon/cobblestonegrey.png",
 		"sideall" : "cobblestonegrey"
 	},
 	"cobblestonered" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/cobblestonered.png",
+		"icon" : "./Icon/cobblestonered.png",
 		"sideall" : "cobblestonered"
 	},
 	"cokes" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/cokes.png"
+		"icon" : "./Icon/cokes.png"
 	},
 	"commandtool" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/commandtool.png"
+		"icon" : "./Icon/commandtool.png"
 	},
 	"copper" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/copper.png"
+		"icon" : "./Icon/copper.png"
 	},
 	"coppernails" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/coppernails.png"
+		"icon" : "./Icon/coppernails.png"
 	},
 	"copperparts" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/copperparts.png"
+		"icon" : "./Icon/copperparts.png"
 	},
 	"coppertools" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/coppertools.png"
+		"icon" : "./Icon/coppertools.png"
 	},
 	"crate" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/crate.png"
+		"icon" : "./Icon/crate.png"
 	},
 	"crossbow" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/crossbow.png"
+		"icon" : "./Icon/crossbow.png"
 	},
 	"crossbowbolt" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/crossbowbolt.png"
+		"icon" : "./Icon/crossbowbolt.png"
 	},
 	"crystal" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/crystal.png"
+		"icon" : "./Icon/crystal.png"
 	},
 	"darkstone" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/darkstone.png"
+		"icon" : "./Icon/darkstone.png"
 	},
 	"dirt" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/dirt.png"
+		"icon" : "./Icon/dirt.png"
 	},
 	"dyertable" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/dyertable.png",
+		"icon" : "./Icon/dyertable.png",
 		"sideall" : "coatedplanksjob",
 		"sidey+" : "dyertable",
 		"sidey-" : "coatedplanks"
 	},
 	"erroridle" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/errorIdle.png"
+		"icon" : "./Icon/errorIdle.png"
 	},
 	"errornopath" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/errorNoPath.png"
+		"icon" : "./Icon/errorNoPath.png"
 	},
 	"firewood" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/firewood.png"
+		"icon" : "./Icon/firewood.png"
 	},
 	"flax" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/flax.png"
+		"icon" : "./Icon/flax.png"
 	},
 	"flaxstage1" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/flaxstage1.png"
+		"icon" : "./Icon/flaxstage1.png"
 	},
 	"flour" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/flour.png"
+		"icon" : "./Icon/flour.png"
 	},
 	"galenalead" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/galenalead.png"
+		"icon" : "./Icon/galenalead.png"
 	},
 	"galenasilver" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/galenasilver.png"
+		"icon" : "./Icon/galenasilver.png"
 	},
 	"goldcoin" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/goldcoin.png"
+		"icon" : "./Icon/goldcoin.png"
 	},
 	"goldingot" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/goldingot.png"
+		"icon" : "./Icon/goldingot.png"
 	},
 	"goldore" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/goldore.png"
+		"icon" : "./Icon/goldore.png"
 	},
 	"grassrainforest" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/grassrainforest.png",
+		"icon" : "./Icon/grassrainforest.png",
 		"sideall" : "grassrainforestside",
 		"sidey+" : "grassrainforest",
 		"sidey-" : "grassrainforest"
 	},
 	"grasssavanna" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/grasssavanna.png",
+		"icon" : "./Icon/grasssavanna.png",
 		"sideall" : "grasssavannaside",
 		"sidey+" : "grasssavanna",
 		"sidey-" : "grasssavanna"
 	},
 	"grasstaiga" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/grasstaiga.png",
+		"icon" : "./Icon/grasstaiga.png",
 		"sideall" : "grasstaigaside",
 		"sidey+" : "grasstaiga",
 		"sidey-" : "grasstaiga"
 	},
 	"grasstemperate" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/grasstemperate.png",
+		"icon" : "./Icon/grasstemperate.png",
 		"sideall" : "grasstemperateside",
 		"sidey+" : "grasstemperate",
 		"sidey-" : "grasstemperate"
 	},
 	"grasstundra" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/grasstundra.png",
+		"icon" : "./Icon/grasstundra.png",
 		"sideall" : "grasstundraside",
 		"sidey+" : "grasstundra",
 		"sidey-" : "grasstundra"
 	},
 	"grindstone" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/grindstone.png",
+		"icon" : "./Icon/grindstone.png",
 		"sideall" : "planksjob",
 		"sidey+" : "grindstone",
 		"sidey-" : "planks"
 	},
 	"gunpowder" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/gunpowder.png"
+		"icon" : "./Icon/gunpowder.png"
 	},
 	"gunpowderpouch" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/gunpowderpouch.png"
+		"icon" : "./Icon/gunpowderpouch.png"
 	},
 	"gunsmithshop" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/gunsmithshop.png",
+		"icon" : "./Icon/gunsmithshop.png",
 		"sideall" : "ironblock",
 		"sidey+" : "gunsmithshop"
 	},
 	"gypsum" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/gypsum.png"
+		"icon" : "./Icon/gypsum.png"
 	},
 	"hollyhock" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/hollyhock.png"
+		"icon" : "./Icon/hollyhock.png"
 	},
 	"hollyhockstage1" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/hollyhockstage1.png"
+		"icon" : "./Icon/hollyhockstage1.png"
 	},
 	"ironblock" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/ironblock.png"
+		"icon" : "./Icon/ironblock.png"
 	},
 	"ironingot" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/ironingot.png"
+		"icon" : "./Icon/ironingot.png"
 	},
 	"ironore" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/ironore.png"
+		"icon" : "./Icon/ironore.png"
 	},
 	"ironrivet" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/ironrivet.png"
+		"icon" : "./Icon/ironrivet.png"
 	},
 	"ironsword" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/ironsword.png"
+		"icon" : "./Icon/ironsword.png"
 	},
 	"ironwrought" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/ironwrought.png"
+		"icon" : "./Icon/ironwrought.png"
 	},
 	"lanternblue" : {
 		"color" : "#",
 		"customData" : {
 			"torches" : {"a":{"color":"#698cff","intensity":12.5,"range":16,"volume":0.5}}
 		},
-		"icon" : "gamedata/mods/SummerTales/Icon/lanternblue.png",
+		"icon" : "./Icon/lanternblue.png",
 		"sideall" : "lanternblue"
 	},
 	"lanterncyan" : {
@@ -309,7 +309,7 @@
 		"customData" : {
 			"torches" : {"a":{"color":"#1bfffb","intensity":12.5,"range":16,"volume":0.5}}
 		},
-		"icon" : "gamedata/mods/SummerTales/Icon/lanterncyan.png",
+		"icon" : "./Icon/lanterncyan.png",
 		"sideall" : "lanterncyan"
 	},
 	"lanterngreen" : {
@@ -317,7 +317,7 @@
 		"customData" : {
 			"torches" : {"a":{"color":"#14e358","intensity":12.5,"range":16,"volume":0.5}}
 		},
-		"icon" : "gamedata/mods/SummerTales/Icon/lanterngreen.png",
+		"icon" : "./Icon/lanterngreen.png",
 		"sideall" : "lanterngreen"
 	},
 	"lanternorange" : {
@@ -325,7 +325,7 @@
 		"customData" : {
 			"torches" : {"a":{"color":"#fc9811","intensity":12.5,"range":16,"volume":0.5}}
 		},
-		"icon" : "gamedata/mods/SummerTales/Icon/lanternorange.png",
+		"icon" : "./Icon/lanternorange.png",
 		"sideall" : "lanternorange"
 	},
 	"lanternpink" : {
@@ -333,7 +333,7 @@
 		"customData" : {
 			"torches" : {"a":{"color":"#ff06ba","intensity":12.5,"range":16,"volume":0.5}}
 		},
-		"icon" : "gamedata/mods/SummerTales/Icon/lanternpink.png",
+		"icon" : "./Icon/lanternpink.png",
 		"sideall" : "lanternpink"
 	},
 	"lanternred" : {
@@ -341,7 +341,7 @@
 		"customData" : {
 			"torches" : {"a":{"color":"#ff3650","intensity":12.5,"range":16,"volume":0.5}}
 		},
-		"icon" : "gamedata/mods/SummerTales/Icon/lanternred.png",
+		"icon" : "./Icon/lanternred.png",
 		"sideall" : "lanternred"
 	},
 	"lanternwhite" : {
@@ -349,7 +349,7 @@
 		"customData" : {
 			"torches" : {"a":{"color":"#a7a7a7","intensity":12.5,"range":16,"volume":0.5}}
 		},
-		"icon" : "gamedata/mods/SummerTales/Icon/lanternwhite.png",
+		"icon" : "./Icon/lanternwhite.png",
 		"sideall" : "lanternwhite"
 	},
 	"lanternyellow" : {
@@ -357,91 +357,91 @@
 		"customData" : {
 			"torches" : {"a":{"color":"#eacc13","intensity":12.5,"range":16,"volume":0.5}}
 		},
-		"icon" : "gamedata/mods/SummerTales/Icon/lanternyellow.png",
+		"icon" : "./Icon/lanternyellow.png",
 		"sideall" : "lantern"
 	},
 	"lead" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/lead.png"
+		"icon" : "./Icon/lead.png"
 	},
 	"leadbullet" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/leadbullet.png"
+		"icon" : "./Icon/leadbullet.png"
 	},
 	"leavestaiga" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/leavestaiga.png"
+		"icon" : "./Icon/leavestaiga.png"
 	},
 	"leavestemperate" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/leavestemperate.png"
+		"icon" : "./Icon/leavestemperate.png"
 	},
 	"linen" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/linen.png"
+		"icon" : "./Icon/linen.png"
 	},
 	"linenbag" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/linenbag.png"
+		"icon" : "./Icon/linenbag.png"
 	},
 	"linenpouch" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/linenpouch.png"
+		"icon" : "./Icon/linenpouch.png"
 	},
 	"linseedoil" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/linseedoil.png"
+		"icon" : "./Icon/linseedoil.png"
 	},
 	"logtaiga" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/logtaiga.png",
+		"icon" : "./Icon/logtaiga.png",
 		"sideall" : "logtaiga",
 		"sidey+" : "stumptaiga",
 		"sidey-" : "stumptaiga"
 	},
 	"logtemperate" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/logtemperate.png",
+		"icon" : "./Icon/logtemperate.png",
 		"sideall" : "logtemperate",
 		"sidey+" : "stumptemperate",
 		"sidey-" : "stumptemperate"
 	},
 	"lumberarea" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/lumberarea.png"
+		"icon" : "./Icon/lumberarea.png"
 	},
 	"matchlockgun" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/matchlockgun.png"
+		"icon" : "./Icon/matchlockgun.png"
 	},
 	"mint" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/mint.png",
+		"icon" : "./Icon/mint.png",
 		"sideall" : "planksjob",
 		"sidey+" : "mint",
 		"sidey-" : "planks"
 	},
 	"missingerror" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/error.png"
+		"icon" : "./Icon/error.png"
 	},
 	"planks" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/planks.png"
+		"icon" : "./Icon/planks.png"
 	},
 	"planksblue" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/planksblue.png",
+		"icon" : "./Icon/planksblue.png",
 		"sideall" : "planksblue"
 	},
 	"plankscyan" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/plankscyan.png",
+		"icon" : "./Icon/plankscyan.png",
 		"sideall" : "plankscyan"
 	},
 	"planksgreen" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/planksgreen.png",
+		"icon" : "./Icon/planksgreen.png",
 		"sideall" : "planksgreen"
 	},
 	"planksgrey" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/planksgrey.png",
+		"icon" : "./Icon/planksgrey.png",
 		"sideall" : "planksgrey"
 	},
 	"plankspink" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/plankspink.png",
+		"icon" : "./Icon/plankspink.png",
 		"sideall" : "plankspink"
 	},
 	"planksred" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/planksred.png",
+		"icon" : "./Icon/planksred.png",
 		"sideall" : "planksred"
 	},
 	"planksyellow" : {
@@ -450,133 +450,133 @@
 			"planks"
 		],
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/planksyellow.png",
+		"icon" : "./Icon/planksyellow.png",
 		"sideall" : "planksyellow"
 	},
 	"plasterblock" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/plasterblock.png"
+		"icon" : "./Icon/plasterblock.png"
 	},
 	"redplanks" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/redplanks.png"
+		"icon" : "./Icon/redplanks.png"
 	},
 	"salpeter" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/salpeter.png"
+		"icon" : "./Icon/salpeter.png"
 	},
 	"sand" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/sand.png"
+		"icon" : "./Icon/sand.png"
 	},
 	"sappling" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/sapling.png"
+		"icon" : "./Icon/sapling.png"
 	},
 	"sciencebagadvanced" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/sciencebagadvanced.png"
+		"icon" : "./Icon/sciencebagadvanced.png"
 	},
 	"sciencebagbasic" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/sciencebagbasic.png"
+		"icon" : "./Icon/sciencebagbasic.png"
 	},
 	"sciencebagcolony" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/sciencebagcolony.png"
+		"icon" : "./Icon/sciencebagcolony.png"
 	},
 	"sciencebaglife" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/sciencebaglife.png"
+		"icon" : "./Icon/sciencebaglife.png"
 	},
 	"sciencebagmilitary" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/sciencebagmilitary.png"
+		"icon" : "./Icon/sciencebagmilitary.png"
 	},
 	"sciencelab" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/sciencelab.png",
+		"icon" : "./Icon/sciencelab.png",
 		"sideall" : "coatedplanksjob",
 		"sidey+" : "sciencelab",
 		"sidey-" : "coatedplanks"
 	},
 	"shop" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/shop.png",
+		"icon" : "./Icon/shop.png",
 		"sideall" : "planksjob",
 		"sidey+" : "shop",
 		"sidey-" : "planks"
 	},
 	"silveringot" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/silveringot.png"
+		"icon" : "./Icon/silveringot.png"
 	},
 	"sling" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/sling.png"
+		"icon" : "./Icon/sling.png"
 	},
 	"slingbullet" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/slingbullet.png"
+		"icon" : "./Icon/slingbullet.png"
 	},
 	"snow" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/snow.png"
+		"icon" : "./Icon/snow.png"
 	},
 	"splittingstump" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/splittingstump.png",
+		"icon" : "./Icon/splittingstump.png",
 		"sideall" : "logtemperate",
 		"sidey+" : "splittingstump",
 		"sidey-" : "stumptemperate"
 	},
 	"steelingot" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/steelingot.png"
+		"icon" : "./Icon/steelingot.png"
 	},
 	"steelparts" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/steelparts.png"
+		"icon" : "./Icon/steelparts.png"
 	},
 	"stoneblock" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/stoneblock.png"
+		"icon" : "./Icon/stoneblock.png"
 	},
 	"stonebricks" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/stonebricks.png"
+		"icon" : "./Icon/stonebricks.png"
 	},
 	"stonebricksblack" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/stonebricksblack.png",
+		"icon" : "./Icon/stonebricksblack.png",
 		"sideall" : "stonebricksblack"
 	},
 	"stonebricksbrown" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/stonebricksbrown.png",
+		"icon" : "./Icon/stonebricksbrown.png",
 		"sideall" : "stonebricksbrown"
 	},
 	"stonebrickswhite" : {
 		"color" : "#",
-		"icon" : "gamedata/mods/SummerTales/Icon/stonebrickswhite.png",
+		"icon" : "./Icon/stonebrickswhite.png",
 		"sideall" : "stonebrickswhite"
 	},
 	"stonemasonworkbench" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/stonemasonworkbench.png",
+		"icon" : "./Icon/stonemasonworkbench.png",
 		"sideall" : "stonebricks",
 		"sidey+" : "stonemasonworkbench"
 	},
 	"straw" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/straw.png"
+		"icon" : "./Icon/straw.png"
 	},
 	"tailorshop" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/tailorshop.png",
+		"icon" : "./Icon/tailorshop.png",
 		"sideall" : "planksjob",
 		"sidey+" : "tailorshop",
 		"sidey-" : "planks"
 	},
 	"technologisttable" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/technologisttable.png",
+		"icon" : "./Icon/technologisttable.png",
 		"sideall" : "coatedplanksjob",
 		"sidey+" : "technologisttable",
 		"sidey-" : "coatedplanks"
 	},
 	"tin" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/tin.png"
+		"icon" : "./Icon/tin.png"
 	},
 	"wheat" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/wheat.png"
+		"icon" : "./Icon/wheat.png"
 	},
 	"wheatstage1" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/wheatstage1.png"
+		"icon" : "./Icon/wheatstage1.png"
 	},
 	"wolfsbane" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/wolfsbane.png"
+		"icon" : "./Icon/wolfsbane.png"
 	},
 	"wolfsbanestage1" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/wolfsbanestage1.png"
+		"icon" : "./Icon/wolfsbanestage1.png"
 	},
 	"workbench" : {
-		"icon" : "gamedata/mods/SummerTales/Icon/workbench.png",
+		"icon" : "./Icon/workbench.png",
 		"sideall" : "planksjob",
 		"sidey+" : "workbenchtop",
 		"sidey-" : "planks"
