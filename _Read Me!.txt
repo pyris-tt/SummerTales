@@ -1,0 +1,15 @@
+Summer Tales Texture Pack v1.1
+for Colony Survival 0.6.3
+
+by Pyris the Thaumaturge
+
+Put this folder under Steam -> steamapps -> common -> Colony Survival -> gamedata -> mods
+
+Programs used:
+*Inkscape - Vectors
+*Crazybump (Demo) - Normal Maps
+*FireAlpaca - Additional Editing
+
+Modding Help:
+*Kenovis
+*Zun

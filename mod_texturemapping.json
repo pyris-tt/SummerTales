@@ -1,0 +1,568 @@
+{
+	"_settings" : {
+		"defaultAlbedo" : "gamedata/textures/materials/blocks/albedo/neutral.png",
+		"defaultEmissive" : "gamedata/textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+		"defaultHeight" : "gamedata/textures/materials/blocks/heightSmoothnessSpecularity/neutral.png",
+		"defaultNormal" : "gamedata/textures/materials/blocks/normal/neutral.png",
+		"fileExtension" : ".png"
+	},
+	"planks" : {
+		"albedo" : "planks",
+		"height" : "2Hplanks",
+		"normal" : "3Dplanks",
+		"emissive" : "eNeutral"
+	},
+	"blackplanks" : {
+		"albedo" : "blackplanks",
+		"height" : "2Hplanks",
+		"normal" : "3Dplanks",
+		"emissive" : "eNeutral"
+	},
+	"bloomery" : {
+		"albedo" : "bloomery",
+		"height" : "2Hcook",
+		"normal" : "nNeutral",
+		"emissive" : "eNeutral"
+	},
+	"cratebread" : {
+		"albedo" : "cratebread",
+		"height" : "2Hcrate",
+		"normal" : "3Dfoodcrate"
+	},
+	"cratebreadtop" : {
+		"albedo" : "cratebreadtop",
+		"height" : "2Hcrate",
+		"normal" : "3Dcrate"
+	},
+	"bloomerylit" : {
+		"albedo" : "bloomeryLit",
+		"height" : "2Hcook",
+		"normal" : "nNeutral",
+		"emissive" : "EbloomeryLit"
+	},
+	"bricks" : {
+		"albedo" : "bricks",
+		"height" : "hNeutral",
+		"normal" : "3Dbricks",
+		"emissive" : "eNeutral"
+	},
+	"carpet" : {
+		"albedo" : "carpet",
+		"height" : "hNeutral",
+		"normal" : "3Dcarpet"
+	},
+	"coatedplanks" : {
+		"albedo" : "coatedplanks",
+		"height" : "2Hplanks",
+		"normal" : "3Dplanks"
+	},
+	"redplanks" : {
+		"albedo" : "redplanks",
+		"height" : "2Hplanks",
+		"normal" : "3Dplanks"
+	},
+	"sand" : {
+		"albedo" : "sand",
+		"height" : "2Hsand",
+		"normal" : "nNeutral"
+	},
+	"shop" : {
+		"albedo" : "shop",
+		"height" : "hNeutral",
+		"normal" : "3Dcushion"
+	},
+	"snow" : {
+		"albedo" : "snow",
+		"height" : "2Hsnow",
+		"normal" : "nNeutral"
+	},
+	"stoneblock" : {
+		"albedo" : "stoneblock",
+		"height" : "2Hstoneblock",
+		"normal" : "3Dstoneblock"
+	},
+	"straw" : {
+		"albedo" : "straw",
+		"height" : "hNeutral",
+		"normal" : "3Dcircle"
+	},
+	"tailorshop" : {
+		"albedo" : "tailorshop",
+		"height" : "2Hcushion",
+		"normal" : "3Dcushion"
+	},
+	"technologisttable" : {
+		"albedo" : "technologisttable",
+		"height" : "2Hcushion",
+		"normal" : "3Dcushion"
+	},
+	"workbenchtop" : {
+		"albedo" : "workbenchTop",
+		"height" : "2Hcushion",
+		"normal" : "3Dcushion"
+	},
+	"carpetred" : {
+		"albedo" : "carpetred",
+		"height" : "hNeutral",
+		"normal" : "3Dcarpet"
+	},
+	"carpetblue" : {
+		"albedo" : "carpetblue",
+		"height" : "hNeutral",
+		"normal" : "3Dcarpet"
+	},
+	"carpetyellow" : {
+		"albedo" : "carpetyellow",
+		"height" : "hNeutral",
+		"normal" : "3Dcarpet"
+	},
+	"bricksblack" : {
+		"albedo" : "bricksblack",
+		"height" : "2Hcolorbrick",
+		"normal" : "3Dcolorbrick"
+	},
+	"bricksdarkred" : {
+		"albedo" : "bricksdarkred",
+		"height" : "2Hcolorbrick",
+		"normal" : "3Dcolorbrick"
+	},
+	"bricksred" : {
+		"albedo" : "bricksred",
+		"height" : "2Hcolorbrick",
+		"normal" : "3Dcolorbrick"
+	},
+	"bricksdarkyellow" : {
+		"albedo" : "bricksyellow",
+		"height" : "2Hcolorbrick",
+		"normal" : "3Dcolorbrick"
+	},
+	"cobblestoneblack" : {
+		"albedo" : "cobblestoneblack",
+		"emissive" : "eNeutral",
+		"height" : "2Hcobble",
+		"normal" : "3Dcobble"
+	},
+	"cobblestoneblue" : {
+		"albedo" : "cobblestoneblue",
+		"emissive" : "eNeutral",
+		"height" : "2Hcobble",
+		"normal" : "3Dcobble"
+	},
+	"cobblestonebrown" : {
+		"albedo" : "cobblestonebrown",
+		"emissive" : "eNeutral",
+		"height" : "2Hcobble",
+		"normal" : "3Dcobble"
+	},
+	"cobblestonegrey" : {
+		"albedo" : "cobblestonegrey",
+		"emissive" : "eNeutral",
+		"height" : "2Hcobble",
+		"normal" : "3Dcobble"
+	},
+	"cobblestonered" : {
+		"albedo" : "cobblestonered",
+		"emissive" : "eNeutral",
+		"height" : "2Hcobble",
+		"normal" : "3Dcobble"
+	},
+	"crate" : {
+		"albedo" : "crate",
+		"height" : "2Hcrate",
+		"normal" : "3Dcrate"
+	},
+	"dyertable" : {
+		"albedo" : "dyertable",
+		"height" : "2Hdyertable",
+		"normal" : "3Ddyertable"
+	},
+	"grassrainforest" : {
+		"albedo" : "grassRainforest",
+		"height" : "hNeutral",
+		"normal" : "3Dgrass1"
+	},
+	"grasssavanna" : {
+		"albedo" : "grassSavanna",
+		"height" : "hNeutral",
+		"normal" : "3Dgrass1"
+	},
+	"grasstaiga" : {
+		"albedo" : "grassTaiga",
+		"height" : "hNeutral",
+		"normal" : "3Dgrass1"
+	},
+	"grasstemperate" : {
+		"albedo" : "grassTemperate",
+		"height" : "hNeutral",
+		"normal" : "3Dgrass1"
+	},
+	"grasstundra" : {
+		"albedo" : "grassTundra",
+		"height" : "hNeutral",
+		"normal" : "3Dgrass1"
+	},
+	"grindstone" : {
+		"albedo" : "grindstone",
+		"height" : "hNeutral",
+		"normal" : "3Dgrind"
+	},
+	"lantern" : {
+		"albedo" : "lantern",
+		"emissive" : "Elantern",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"lanternblue" : {
+		"albedo" : "lanternblue",
+		"emissive" : "Elantern",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"lanterncyan" : {
+		"albedo" : "lanterncyan",
+		"emissive" : "Elantern",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"lanterngreen" : {
+		"albedo" : "lanterngreen",
+		"emissive" : "Elantern",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"lanternorange" : {
+		"albedo" : "lanternorange",
+		"emissive" : "Elantern",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"lanternpink" : {
+		"albedo" : "lanternpink",
+		"emissive" : "Elantern",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"lanternred" : {
+		"albedo" : "lanternred",
+		"emissive" : "Elantern",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"lanternwhite" : {
+		"albedo" : "lanternwhite",
+		"emissive" : "Elantern",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"logtaiga" : {
+		"albedo" : "logTaiga",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"logtemperate" : {
+		"albedo" : "logTemperate",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"lumberarea" : {
+		"albedo" : "lumberArea",
+		"height" : "hNeutral",
+		"normal" : "3Ddirt"
+	},
+	"mint" : {
+		"albedo" : "mint",
+		"height" : "hNeutral",
+		"normal" : "3Dmint"
+	},
+	"planksblue" : {
+		"albedo" : "planksblue",
+		"height" : "2Hplanks",
+		"normal" : "3Dplanks"
+	},
+	"plankscyan" : {
+		"albedo" : "plankscyan",
+		"height" : "2Hplanks",
+		"normal" : "3Dplanks"
+	},
+	"planksgreen" : {
+		"albedo" : "planksgreen",
+		"height" : "2Hplanks",
+		"normal" : "3Dplanks"
+	},
+	"planksgrey" : {
+		"albedo" : "planksgrey",
+		"height" : "2Hplanks",
+		"normal" : "3Dplanks"
+	},
+	"plankspink" : {
+		"albedo" : "plankspink",
+		"height" : "2Hplanks",
+		"normal" : "3Dplanks"
+	},
+	"planksyellow" : {
+		"albedo" : "planksyellow",
+		"height" : "2Hplanks",
+		"normal" : "3Dplanks"
+	},
+	"planksred" : {
+		"albedo" : "planksred",
+		"height" : "2Hplanks",
+		"normal" : "3Dplanks"
+	},
+	"sciencelab" : {
+		"albedo" : "sciencelab",
+		"height" : "2Hcushion",
+		"normal" : "3Dcushion"
+	},
+	"splittingstump" : {
+		"albedo" : "splittingstump",
+		"height" : "2Hcushion",
+		"normal" : "3Dcushion"
+	},
+	"stumptaiga" : {
+		"albedo" : "stumptaiga",
+		"height" : "2Hstump",
+		"normal" : "3Dcircle"
+	},
+	"stumptemperate" : {
+		"albedo" : "stumptemperate",
+		"height" : "2Hstump",
+		"normal" : "3Dcircle"
+	},
+	"adobe" : {
+		"albedo" : "adobe",
+		"height" : "hNeutral",
+		"normal" : "3Dadobe"
+	},
+	"berrybush" : {
+		"albedo" : "berrybush",
+		"height" : "hNeutral",
+		"normal" : "3Dberry"
+	},
+	"bronzeanvil" : {
+		"albedo" : "bronzeanvil",
+		"height" : "hNeutral",
+		"normal" : "3Danvil"
+	},
+	"cherryblossom" : {
+		"albedo" : "cherryblossom",
+		"height" : "hNeutral",
+		"normal" : "3Dcherry"
+	},
+	"clay" : {
+		"albedo" : "clay",
+		"height" : "hNeutral",
+		"normal" : "3Dclay"
+	},
+	"coatedplanksjob" : {
+		"albedo" : "coatedplanksJob",
+		"height" : "hNeutral",
+		"normal" : "3Djobplank"
+	},
+	"planksjob" : {
+		"albedo" : "planksJob",
+		"height" : "hNeutral",
+		"normal" : "3Djobplank"
+	},
+	"dirt" : {
+		"albedo" : "dirt",
+		"height" : "hNeutral",
+		"normal" : "3Ddirt"
+	},
+	"fineryforge" : {
+		"albedo" : "fineryForge",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"fineryforgelit" : {
+		"albedo" : "fineryForgeLit",
+		"emissive" : "EfineryforgeLit",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"furnacelitfront" : {
+		"albedo" : "furnaceLitFront",
+		"emissive" : "EfurnaceLitFront",
+		"height" : "2Hfurnacefront",
+		"normal" : "nNeutral"
+	},
+	"furnacelittop" : {
+		"albedo" : "furnaceLitTop",
+		"emissive" : "EfurnaceLitTop",
+		"height" : "2Hfurnacetop",
+		"normal" : "nNeutral"
+	},
+	"furnaceside" : {
+		"albedo" : "furnaceSide",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"furnaceunlitfront" : {
+		"albedo" : "furnaceUnlitFront",
+		"height" : "2Hfurnacefront",
+		"normal" : "nNeutral"
+	},
+	"furnaceunlittop" : {
+		"albedo" : "furnaceUnlitTop",
+		"height" : "2Hfurnacetop",
+		"normal" : "nNeutral"
+	},
+	"grassrainforestside" : {
+		"albedo" : "grassRainforestSide",
+		"height" : "hNeutral",
+		"normal" : "3Dgrass2"
+	},
+	"grasssavannaside" : {
+		"albedo" : "grassSavannaSide",
+		"height" : "hNeutral",
+		"normal" : "3Dgrass2"
+	},
+	"grasstaigaside" : {
+		"albedo" : "grassTaigaSide",
+		"height" : "hNeutral",
+		"normal" : "3Dgrass2"
+	},
+	"grasstemperateside" : {
+		"albedo" : "grassTemperateSide",
+		"height" : "hNeutral",
+		"normal" : "3Dgrass2"
+	},
+	"grasstundraside" : {
+		"albedo" : "grassTundraSide",
+		"height" : "hNeutral",
+		"normal" : "3Dgrass2"
+	},
+	"gunsmithshop" : {
+		"albedo" : "gunsmithshop",
+		"height" : "2Hcushion",
+		"normal" : "3Dcushion"
+	},
+	"infiniteclay" : {
+		"albedo" : "oreClay",
+		"height" : "hNeutral",
+		"normal" : "3Dore_clay"
+	},
+	"infinitecoal" : {
+		"albedo" : "oreCoal",
+		"height" : "hNeutral",
+		"normal" : "3Dore_coal"
+	},
+	"infinitecopper" : {
+		"albedo" : "oreCopper",
+		"height" : "hNeutral",
+		"normal" : "3Dore_copper"
+	},
+	"infinitegalena" : {
+		"albedo" : "oreGalena",
+		"height" : "hNeutral",
+		"normal" : "3Dore_galena"
+	},
+	"infinitegold" : {
+		"albedo" : "oreGold",
+		"height" : "hNeutral",
+		"normal" : "3Dore_gold",
+		"emissive" : "Egold"
+	},
+	"infinitegypsum" : {
+		"albedo" : "oreGypsum",
+		"height" : "hNeutral",
+		"normal" : "3Dore_gypsum"
+	},
+	"infiniteiron" : {
+		"albedo" : "oreIron",
+		"height" : "hNeutral",
+		"normal" : "3Dore_iron"
+	},
+	"infinitesalpeter" : {
+		"albedo" : "oreSalpeter",
+		"height" : "hNeutral",
+		"normal" : "3Dore_salt"
+	},
+	"infinitestone" : {
+		"albedo" : "oreStone",
+		"height" : "2Hdarkstone",
+		"normal" : "3Ddarkstone"
+	},
+	"infinitetin" : {
+		"albedo" : "oreTin",
+		"height" : "hNeutral",
+		"normal" : "3Dore_tin"
+	},
+	"ironblock" : {
+		"albedo" : "ironblock",
+		"height" : "hNeutral",
+		"normal" : "3Diron",
+		"emissive" : "eNeutral"
+	},
+	"kiln" : {
+		"albedo" : "kiln",
+		"height" : "hNeutral",
+		"normal" : "nNeutral",
+		"emissive" : "Ekiln"
+	},
+	"leavestaiga" : {
+		"albedo" : "leavesTaiga",
+		"height" : "hNeutral",
+		"normal" : "3Dtaiga"
+	},
+	"leavestemperate" : {
+		"albedo" : "leavesTemperate",
+		"height" : "hNeutral",
+		"normal" : "3Dleaves"
+	},
+	"logtaiga" : {
+		"albedo" : "logTaiga",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"logtemperate" : {
+		"albedo" : "logTemperate",
+		"height" : "hNeutral",
+		"normal" : "nNeutral"
+	},
+	"ovenlitfront" : {
+		"albedo" : "ovenLit",
+		"emissive" : "EovenLitFront",
+		"height" : "2Hcook",
+		"normal" : "nNeutral"
+	},
+	"ovenunlitfront" : {
+		"albedo" : "ovenUnlit",
+		"height" : "2Hcook",
+		"normal" : "nNeutral"
+	},
+	"plasterblock" : {
+		"albedo" : "plasterblock",
+		"height" : "2Hplaster",
+		"normal" : "3Dplaster"
+	},
+	"stonebricks" : {
+		"albedo" : "stoneBricks",
+		"height" : "2Hstonebrick",
+		"normal" : "3Dstonebrick"
+	},
+	"stonemasonworkbench" : {
+		"albedo" : "stonemasonworkbench",
+		"height" : "2Hcushion",
+		"normal" : "3Dcushion"
+	},
+	"stonebrickswhite" : {
+		"albedo" : "stoneBricksWhite",
+		"height" : "2Hstonebrick",
+		"normal" : "3Dstonebrick"
+	},
+	"stonebricksblack" : {
+		"albedo" : "stoneBricksBlack",
+		"height" : "2Hstonebrick",
+		"normal" : "3Dstonebrick"
+	},
+	"stonebricksbrown" : {
+		"albedo" : "stoneBricksBrown",
+		"height" : "2Hstonebrick",
+		"normal" : "3Dstonebrick"
+	},
+	"torch" : {
+		"albedo" : "neutral",
+		"emissive" : "Etorch"
+	}
+}

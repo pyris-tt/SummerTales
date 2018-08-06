@@ -1,0 +1,20 @@
+[
+	{
+		"compatibleversions" : [
+			"0.6.1"
+		],
+		"enabled" : false,
+		"jsonFiles" : [
+			{
+				"fileType" : "addOrOverrideTextureMappingEntries",
+				"relativePath" : "mod_texturemapping.json"
+			},
+			{
+				"fileType" : "overrideTypeProperties",
+				"relativePath" : "mod_override_type_properties.json"
+			}
+		],
+		"name" : "pyristt.summertales",
+		"version" : "0.1.1"
+	}
+]
